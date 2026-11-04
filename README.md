@@ -80,7 +80,13 @@ int main() {
 ```
 # OUTPUT
 
+# FOUND
+
 <img width="1478" height="911" alt="image" src="https://github.com/user-attachments/assets/090f4338-3a6b-421f-a3af-22dfb5968109" />
+
+# NOT FOUND
+
+<img width="1478" height="762" alt="Screenshot 2026-11-04 124436" src="https://github.com/user-attachments/assets/14ebc2eb-ea79-45ae-ba73-ee2a1bd59b10" />
 
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
